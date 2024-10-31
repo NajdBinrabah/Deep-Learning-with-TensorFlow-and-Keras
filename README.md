@@ -11,6 +11,8 @@ This project explores the use of Deep Learning for classifying emotions in audio
 - **TensorFlow & Keras:** For building, training, and evaluating Deep Learning models.
 - **Librosa:** For audio analysis, particularly feature extraction, which converts audio files into numerical representations that the model can interpret.
 
+You can view the detailed Notebook for this project [here](https://github.com/NajdBinrabah/Deep-Learning-with-TensorFlow-and-Keras/blob/main/Deep_Learning_with_TensorFlow_%26_Keras_Emotion_Detection_in_Audio.ipynb).
+
 <h3>Models and Techniques Explored</h3>
 
 **1. Feature Extraction with Librosa**
